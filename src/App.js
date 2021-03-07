@@ -11,7 +11,8 @@ function App() {
           hello world
         </p>
       
-          <Search />
+        <Search />
+      
       </header>
       <footer>Coded by <a href ="https://github.com/catherine1201" target="_blank"> Catherine LIM</a></footer>
     </div>
