@@ -14,7 +14,7 @@ export default function Search() {
         <li>Description: {response.data.weather[0].description}</li>
         <li>
           <img
-            src={`http://openweathermap.org/img/wn/${response.data.weather[0].icon}@2x.png`}
+            src={`https://openweathermap.org/img/wn/${response.data.weather[0].icon}@2x.png`}
             alt="weather"
           />{" "}
         </li>
